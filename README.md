@@ -16,7 +16,7 @@ or of genes with similar functions, following the destruction or inactivation
 of DNA repair genes.
 
 ## Software
-Mainly [The MEME Suite 5.5.1](https://meme-suite.org/meme/doc/overview.html?man_type=web) plus Python 3.9 (the code is in pdf file [Motifs_ManuelaCarriero.pdf](https://github.com/ManuelaCarriero/motifs-search-and-discovery/blob/main/Motifs_ManuelaCarriero.pdf).
+Mainly [The MEME Suite 5.5.1](https://meme-suite.org/meme/doc/overview.html?man_type=web) plus Python 3.9 (the code is in pdf file [Motifs_ManuelaCarriero.pdf](https://github.com/ManuelaCarriero/motifs-search-and-discovery/blob/main/Motifs_ManuelaCarriero.pdf)).
 
 ## Data
 * Pyrococcus furiosus COM1, complete genome https://www.ncbi.nlm.nih.gov/nuccore/CP003685

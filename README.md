@@ -10,7 +10,8 @@ archaeal species to extreme environments is extraordinary and in this project,
 some possible mechanisms of metabolic adaptation of COM1 are studied
 by searching for overrepresented DNA sequence motifs related to radioresistance. The results show that the DNA sequence motif GARGADRHTGHGGMAGAGDTY, which is detected by the software MEME using a set of 8
 Ferritin-like DNA sequence genes involved in the protection against oxidative damage, is overrepresented in COM1 with respect to the reference P.
-Furiosus genome. This can suggest that the radioresistance of COM1 is due
+Furiosus genome. Notice that the DNA sequence motif is Guanine enriched and this reminds us the property of genes imparting resistant to radiation in radioresistant bacteria, such as D. Radiodurans, that
+have enriched promoter-PG4 motifs. This can suggest that the radioresistance of COM1 is due
 to amplification of genes encoding proteins which belong to Ferritin family,
 or of genes with similar functions, following the destruction or inactivation
 of DNA repair genes.
